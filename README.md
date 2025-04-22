@@ -38,7 +38,7 @@ SmartCare is a hospital management system API built with Django REST Framework. 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/smartcare.git
+git clone https://github.com/saiful-islam-auny/smart-care-backend.git
 cd smartcare
 python -m venv env
 source env/bin/activate  # or env\Scripts\activate on Windows
